@@ -9,3 +9,6 @@ main {background-color: #a979d1;}
 .SEGUNDOPARAGRAFO {text-align: justify;font-size: 18px; border: black solid 2px;padding: 10px;margin: 10px;}
 #TITULOIMAGEM {width: 5%; height: 5%}
 #LISTA {display: inline-block;}
+nav li {text-transform: uppercase;list-style: none; display: inline; margin-left: 10px; text-align: right;}
+nav a {color: #ad75c7; text-decoration: none; text-align: right;}
+#lista01 {display:block; text-align: center;}
